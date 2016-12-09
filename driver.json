@@ -1,0 +1,54 @@
+{
+    "models": ["hg7881"],
+    "power" : null ,
+    "inputs": {
+        "pwm_a_1": {
+            "type": "pwm",
+            "args": {
+                "frequency": 800
+            }
+        },
+        "pwm_a_2": {
+            "type": "pwm",
+            "args": {
+                "frequency": 800
+            }
+        },
+        "pwm_b_1": {
+            "type": "pwm",
+            "args": {
+                "frequency": 800
+            }
+        },
+        "pwm_b_2": {
+            "type": "pwm",
+            "args": {
+                "frequency": 800
+            }
+        },
+        "pwm_c_1": {
+            "type": "pwm",
+            "args": {
+                "frequency": 800
+            }
+        },
+        "pwm_c_2": {
+            "type": "pwm",
+            "args": {
+                "frequency": 800
+            }
+        },
+        "pwm_d_1": {
+            "type": "pwm",
+            "args": {
+                "frequency": 800
+            }
+        },
+        "pwm_d_2": {
+            "type": "pwm",
+            "args": {
+                "frequency": 800
+            }
+        }
+    }
+}

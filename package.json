@@ -1,0 +1,7 @@
+{
+    "name": "hg7881",
+    "version": "1.0.3",
+    "description": "",
+    "author": "ethan",
+    "main": "src/index.js"
+}
